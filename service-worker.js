@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/metronome/precache-manifest.4e481b70f89ef9a41f2cd85ef4be4928.js"
+  "/metronome/precache-manifest.1d2c1868078ac1ca436c92667eb59809.js"
 );
 
 self.addEventListener('message', (event) => {
